@@ -74,7 +74,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,github,java,mongodb,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=idea,github,java,mongodb,mysql,redis&perline=14" />
   </a>
 </p>
 
