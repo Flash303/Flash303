@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Elyrion**
 
-- ❤️ I love Creating websites plugins for Minecraft.
+- ❤️ I love Creating plugins for Minecraft.
 
 <!--Intro end-->
 
