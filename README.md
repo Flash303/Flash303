@@ -34,7 +34,7 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Flash303&theme=tokyonight&layout=compact&hide=AUTO_DETECTED" title="Go to Source">
       <img align="center" width=84% src="https://github-readme-stats.vercel.app/api/wakatime?username=@Flash303&theme=tokyonight&layout=compact&hide=AUTO_DETECTED" />
     </a>
 </div>
