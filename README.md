@@ -100,7 +100,7 @@ Whether it's backend systems, game plugins, or web applications, I’m always ex
 </div>
 
 <!--Visit count-->
-<div align="center" style="padding: 20px 0;">
+<div align="center" style="margin-top: 40px;">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Flash303&label=Profile%20Views&pretty=true" alt="Profile Views">
   </a>
