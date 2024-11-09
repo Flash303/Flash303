@@ -9,10 +9,8 @@
 </div>
 
 <!-- About Me -->
-### About Me
-<p style="font-size: 1.50em;">
-  I'm a passionate developer who thrives on learning and creating innovative solutions. My journey began with creating plugins for Minecraft, which sparked my love for programming. Currently, I'm focused on <strong>Elyrion</strong>, an exciting project that allows me to blend creativity with technical skills. Whether it's backend systems, game plugins, or web applications, I’m always exploring new ways to push the boundaries of what's possible.
-</p>
+## About Me
+I'm a passionate developer who thrives on learning and creating innovative solutions. My journey began with creating plugins for Minecraft, which sparked my love for programming. Currently, I'm focused on <strong>Elyrion</strong>, an exciting project that allows me to blend creativity with technical skills. Whether it's backend systems, game plugins, or web applications, I’m always exploring new ways to push the boundaries of what's possible.
 
 <!-- Snake -->
 <div align="center">
