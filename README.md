@@ -49,7 +49,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,github,java,mongodb,mysql,redis&perline=14" />
+    <img src="https://skillicons.dev/icons?i=idea,github,java,mongodb,mysql,redis,docker,linux,ts,react,nodejs,js,html,css,git&perline=14" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,ts,react,tailwind,docker,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,ts,react,&perline=14" />
   </a>
 </p>
 
