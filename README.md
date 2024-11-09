@@ -48,8 +48,14 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
+  <!--<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,github,java,mongodb,mysql,redis,docker,linux,ts,react,nodejs,js,html,css,git,materialui&perline=14" />
+  </a>-->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,github,java,mongodb,mysql,redis,docker,linux,ts,react,nodejs,js,html,css,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,redis,ts,react,nodejs,js,html,css,materialui&perline=14" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,github,docker,linux,git&perline=14" />
   </a>
 </p>
 
