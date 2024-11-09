@@ -100,10 +100,10 @@ Whether it's backend systems, game plugins, or web applications, I’m always ex
 </div>
 
 <!--Visit count-->
-<div align=center style="padding-top: 20px">
-  
-[![](https://visitcount.itsvg.in/api?id=Flash303&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
+<div align="center" style="padding: 20px 0;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Flash303&label=Profile%20Views&pretty=true" alt="Profile Views">
+  </a>
 </div>
 
 <!-- Divider -->
