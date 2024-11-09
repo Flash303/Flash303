@@ -101,7 +101,9 @@ Whether it's backend systems, game plugins, or web applications, I’m always ex
 
 <!--Visit count-->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Flash303&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Flash303&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+  
 </div>
 
 <!-- Divider -->
