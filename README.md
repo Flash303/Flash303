@@ -94,7 +94,7 @@ Whether it's backend systems, game plugins, or web applications, I’m always ex
 
 <!-- Dev time -->
 <div align=center>
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Flash303&theme=tokyonight&layout=compact&hide=AUTO_DETECTED" title="Go to Source">
+  <a href="https://github-readme-stats-fast.vercel.app/api/wakatime/?username=Flash303&theme=tokyonight&layout=compact&hide=AUTO_DETECTED" title="Go to Source">
       <img align="center" width=84% src="https://github-readme-stats-fast.vercel.app/api/wakatime/?username=Flash303&theme=tokyonight&layout=compact&hide=AUTO_DETECTED" />
     </a>
 </div>
