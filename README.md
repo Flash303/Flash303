@@ -63,7 +63,7 @@ Whether it's backend systems, game plugins, or web applications, I’m always ex
 <!-- Lean icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,html,css,ts,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=rust,kubernetes,git,html,css,ts,react&perline=14" />
   </a>
 </p>
 
