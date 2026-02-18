@@ -49,7 +49,7 @@ Whether it's backend systems, game plugins, or web applications, I’m always ex
     <img src="https://skillicons.dev/icons?i=idea,github,java,mongodb,mysql,redis,docker,linux,ts,react,nodejs,js,html,css,git,materialui&perline=14" />
   </a>-->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,redis,ts,react,nodejs,js,html,css,materialui,idea,github,docker,linux,git&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,redis,ts,react,nodejs,js,html,css,idea,github,docker,linux,git,kubernetes&perline=8" /> <img src="https://skills.syvixor.com/api/icons?i=shadcnui" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@ Whether it's backend systems, game plugins, or web applications, I’m always ex
 <!-- Lean icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,kubernetes,git,html,css,ts,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=rust,kubernetes,git,html,css,ts,react&perline=4" />
   </a>
 </p>
 
