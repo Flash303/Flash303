@@ -15,8 +15,8 @@ Whether it's backend systems, game plugins, or web applications, I’m always ex
 
 <!-- Snake -->
 <div align="center">
-  <a href="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg/">
-    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake">
+  <a href="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/public/grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/public/grid-snake.svg" alt="snake">
   </a>
 </div>
 
