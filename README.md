@@ -54,7 +54,7 @@ Right now, I'm fully invested in learning Rust 🦀 to master memory management,
 
 <div align="center" style="margin-top: 40px;">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Flash303" alt="Profile Views">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Flash303.visitor-badge&left_text=Profile%20view" alt="Profile Views">
   </a>
 </div>
 
